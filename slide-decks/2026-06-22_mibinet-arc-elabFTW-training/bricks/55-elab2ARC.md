@@ -3,7 +3,7 @@ marp: true
 paginate: true
 theme: marp-theme_dataplant-ceplas-mibinet-ccby
 license: '[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)'
-date: 2025-01-15
+date: 2026-06-09
 title: elab2ARC
 author:
 - name: Sabrina Zander
@@ -54,7 +54,7 @@ https://nfdi4plants.github.io/nfdi4plants.knowledgebase/resources/elab2arc/
 ### Solution
 - Start with automated transition of data without 
     - metadata mapping, 
-    - structured metadata extraction,
+    - structured metadata extraction (now optional with LLM),
     - re-structuring of elabFTW content
 
 </div>
@@ -79,11 +79,11 @@ The elab2ARC tool will automatically convert your elabFTW experiments into ARC f
 
 ---
 
-# LLM usage
+# optional LLM usage
 
 LLM modals extract metadata from free-text into maschine-readable ISA tables 
 
-![alt text](../../../public/images-tm/elabftw/elab2ARC-LLM.png)
+![alt text](../images/elab2arc/elab2ARC-LLM.png)
 
 ---
 # elab2ARC tool Hands-on

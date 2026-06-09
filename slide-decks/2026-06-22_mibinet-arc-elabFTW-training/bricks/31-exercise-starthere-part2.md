@@ -26,7 +26,7 @@ title: Hands-on
 </style>
 
 ## Hands-on part 2: Start Here guide, study & assay part
-[**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
+[**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/workshops/2026-fdm-werkstatt/2026-fdm-werkstatt-getting-started/) in the DataPLANT knowledge base.
 
 
 ---
@@ -280,6 +280,6 @@ Facilities can define their most common workflows as templates
 -->
 ## Hands-on part 2: ARCitect (and Swate)
 
-Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
+Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/workshops/2026-fdm-werkstatt/2026-fdm-werkstatt-getting-started/) in the DataPLANT knowledge base.
 
-:pencil: Stop after step **Add assay data**
+:pencil: Stop after step **Assay**

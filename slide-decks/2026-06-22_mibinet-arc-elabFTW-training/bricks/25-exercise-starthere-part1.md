@@ -26,7 +26,7 @@ title: Hands-on
 </style>
 
 ## Hands-on part 1: Start Here guide
-[**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
+[**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/workshops/2026-fdm-werkstatt/2026-fdm-werkstatt-getting-started/) in the DataPLANT knowledge base.
 
 - follow the fictional researcher Viola on her journey to create her first ARC
 
@@ -42,9 +42,9 @@ title: Hands-on
 
 ## Hands-on part 1: Setup and Investigation
 
-Follow the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
+Follow the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/workshops/2026-fdm-werkstatt/2026-fdm-werkstatt-getting-started/) in the DataPLANT knowledge base.
 
-:pencil: Stop after step **Describing the Investigation**
+:pencil: Stop after step **Investigation**
 
 :question: Please ask if you have any question/problems :question:
 

@@ -109,8 +109,8 @@ When inviting new members to an ARC or group, you can choose between different l
 
 ---
 
-## Hands-on part 4: DataHUB
+## Hands-on part 3: DataHUB
 
-Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
+Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/workshops/2026-fdm-werkstatt/2026-fdm-werkstatt-getting-started/) in the DataPLANT knowledge base.
 
 :pencil: Until the  **Check-point2** step
