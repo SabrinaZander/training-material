@@ -161,14 +161,16 @@ Different tools are implemented in eLabFTW
 - Inventory: Add inventory and locations 
 
  ![alt text](../../../public/images-tm/elabftw/elabftw-tools.png)
+
 ---
 
 # eLabFTW - Tipps and tricks
 - Use # to link experiments/resources in the text
 - Use .gb files for plasmid cards ( can be opend in a plasmid viewer in elabFTW) 
 - Use versions, possibility to upload new versions of files/methods
-
+  
 ---
+
 # eLabFTW - Support
 
 ## General
