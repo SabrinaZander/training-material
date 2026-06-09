@@ -14,14 +14,12 @@ author:
 
 # NFDI – Nationale Forschungsdaten Infrastruktur
 
-![w:900](../../../public/images-tm/nfdi/nfdi.drawio.png)
-
-
+![alt text](../../../public/images-tm/nfdi/nfdi.drawio.svg)
 ---
 
 # NFDI – A community-targeted approach for RDM
 
-![w:800](../../../public/images-tm/nfdi/nfdi-consortia.drawio.png)
+![w:800](../../../public/images-tm/nfdi/nfdi-consortia.drawio.svg)
 
 ---
 
@@ -42,7 +40,7 @@ author:
 
 # Data Stewardship between DataPLANT and the community <!-- fit -->
 
-![w:800](./../../../public/images-tm/ceplas/ceplas-dataplant-collaboration-hhu.drawio.png)
+![w:800](./../../../public/images-tm/ceplas/ceplas-dataplant-collaboration-hhu.drawio.svg)
 
 ---
 

@@ -148,5 +148,4 @@ HelpDesk: <a href="https://helpdesk.nfdi4plants.org" target="_blank">https://hel
 - Introduction into elabFTW 
 - elab2ARC tool
 
-![bg right w:500](./../../public/images-tm/ceplas-arcs.drawio.svg)
 
